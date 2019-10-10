@@ -1,0 +1,15 @@
+{
+  "name": "webpack_practice",
+  "version": "1.0.0",
+  "description": "Practice webPack workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.12.0",
+    "webpack-dev-server": "^3.8.2"
+  }
+}
