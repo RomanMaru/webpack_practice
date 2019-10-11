@@ -4,7 +4,7 @@ import Users from './containers/Users'
 import asyncComponent from './hoc/asyncComponent'
 
 const AsyncPizza = asyncComponent(() => {
-    return import('./containers/Pizza')
+    return import('./containers/Pizza.js')
 })
 
 class App extends Component {
