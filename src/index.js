@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import {BrowseRouter} from 'react-router-dom'\
+import {BrowseRouter} from 'react-router-dom'
 import App from './App'
 import './index.css'
 
